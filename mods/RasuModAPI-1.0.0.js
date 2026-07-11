@@ -20,7 +20,7 @@
      * Basic
      * ====================================================== */
 
-    Rasu.version = "0.1.0";
+    Rasu.version = "1.0.0";
     Rasu.author = "Rasu";
     Rasu.mods = [];
 
